@@ -1,0 +1,19 @@
+<!--
+  ~ Copyright (c) Barykin Alexey, 2020
+  -->
+
+<resources>
+    <string name="app_name">Компании</string>
+
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut interdum sit amet augue tincidunt pellentesque. Donec maximus libero vitae dolor interdum semper. Aliquam et ex aliquet, mattis risus vitae, accumsan ipsum. Curabitur lectus est, congue nec augue ac, varius dapibus velit. Vivamus sed urna eget ligula varius lobortis. Donec porttitor pharetra risus, non sodales justo facilisis nec. Nam sit amet egestas turpis. Praesent mattis, nunc id commodo tristique, urna purus imperdiet dolor, sit amet rutrum tellus dui rhoncus augue. Vivamus eu iaculis velit. Pellentesque eros eros, lobortis cursus sem sed, sollicitudin bibendum odio. Ut eu sem nec tellus lacinia hendrerit. Curabitur eget vestibulum odio, sed blandit lectus. Donec vehicula ut purus at porttitor. Vivamus efficitur erat auctor nulla dignissim, sit amet lacinia magna finibus. Nulla eu felis eu neque faucibus ultrices. Mauris nec venenatis tellus. Sed vel urna nec nunc finibus faucibus. Nam sit amet metus est. Nam nec ipsum et mi tristique lobortis et at nibh. Fusce volutpat ultrices mattis. Fusce libero augue, accumsan non nibh a, mattis varius augue. Sed ut odio vestibulum felis malesuada efficitur. Sed ac blandit lacus, a tempor lorem. Fusce blandit a tellus in auctor. Aliquam mattis mi mi, non iaculis metus accumsan commodo. Maecenas a purus turpis. Mauris nisi lacus, blandit sit amet leo vel, congue auctor tortor. Vivamus semper eleifend enim vitae egestas. Quisque sapien metus, facilisis et elit quis, elementum ultricies nisi. Duis mattis et erat quis aliquam.Aliquam eu arcu varius, ultricies eros sed, eleifend ex. Curabitur posuere pharetra sapien, cursus commodo augue maximus eu. Sed pretium eros ipsum, eget posuere velit imperdiet vel. Sed aliquet aliquet tincidunt. Nam in facilisis diam, quis consectetur dolor. Phasellus eu augue in est aliquet ullamcorper. Duis ut eros purus.Etiam ac libero ligula. Ut eleifend ullamcorper sollicitudin. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus efficitur elit vitae tristique vulputate. Nunc at massa facilisis, congue metus eget, facilisis eros. Sed commodo tincidunt leo porta imperdiet. Sed eget justo facilisis, euismod nisl ut, porttitor dui. Ut rutrum at dolor vel molestie. Suspendisse venenatis aliquet lacus, sit amet vulputate sapien auctor in. In hac habitasse platea dictumst. Aenean nec augue elementum, sagittis ipsum non, gravida mauris. Etiam massa leo, consequat et cursus non, interdum at lorem. Phasellus aliquam molestie pellentesque. Morbi ac elit consectetur eros euismod molestie. Donec posuere magna at porta congue. Donec malesuada purus sed erat eleifend facilisis.</string>
+    <string name="article_image">изображение</string>
+
+    <string name="network_error">Ошибка сети!</string>
+    <string name="retry">повторить</string>
+    <string name="source_link">Исходник</string>
+    <string name="image_of_article">image of article</string>
+    <string name="phone">тел.</string>
+    <string name="contacts">Контакты:</string>
+    <string name="network_error2">Ошибка сети.\n</string>
+    <string name="check_network_and_update">Проверьте подключение к интернету и обновите страницу.</string>
+</resources>

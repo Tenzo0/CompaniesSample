@@ -1,0 +1,7 @@
+<!--
+  ~ Copyright (c) Barykin Alexey, 2020
+  -->
+
+<resources>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBMj_zljJQi6dUf99qSfulGJ_FOaYxhIOI</string>
+</resources>

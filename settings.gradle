@@ -1,0 +1,6 @@
+/*
+ * Copyright (c) Barykin Alexey, 2020
+ */
+
+rootProject.name='Application'
+include ':app'

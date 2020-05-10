@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) Barykin Alexey, 2020
+  -->
+<LinearLayout android:id="@+id/network_error_layout"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="@dimen/extra_large_margin"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:textAppearance="@style/TextAppearance.AppCompat.Headline"
+        android:layout_width="match_parent"
+        android:layout_height="36dp"
+        android:text="@string/network_error2"
+        android:textAlignment="center"
+        android:textStyle="bold" />
+
+    <TextView
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:text="@string/check_network_and_update"/>
+
+</LinearLayout>
